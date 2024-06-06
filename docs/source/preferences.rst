@@ -2,10 +2,22 @@
 Preferences
 ===========
 
-#######
-General
-#######
- 
+#########
+Dashboard
+#########
+
+*******
+Account
+*******
+
+*******
+Balance
+*******
+
+########
+Settings
+########
+
 **Lazy Load**
     When enabled the section will be updated only after committing a transform change of a section box using the *Boolean* method.
     Else it will be updated in realtime always. This is especially useful when working with higher amounts of triangles to save performance while transforming a section box.
