@@ -19,7 +19,6 @@ extensions = [
     "sphinx.ext.intersphinx",
     "sphinx.ext.autosectionlabel",
     "sphinx_rtd_theme",
-    "furo",
 ]
 
 autosectionlabel_prefix_document = True
