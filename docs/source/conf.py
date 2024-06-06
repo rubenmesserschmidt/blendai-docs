@@ -2,12 +2,12 @@
 
 # -- Project information
 
-project = "Section Box"
+project = "BlendAI"
 copyright = "2024, Ruben Messerschmidt"
 author = "Ruben Messerschmidt"
 
-release = "2.0.15"
-version = "2.0.15"
+release = "1.0.0"
+version = "1.0.0"
 
 # -- General configuration
 
@@ -19,6 +19,7 @@ extensions = [
     "sphinx.ext.intersphinx",
     "sphinx.ext.autosectionlabel",
     "sphinx_rtd_theme",
+    "furo",
 ]
 
 autosectionlabel_prefix_document = True
@@ -33,7 +34,7 @@ templates_path = ["_templates"]
 
 # -- Options for HTML output
 
-html_theme = "sphinx_rtd_theme"
+html_theme = "furo"
 
 # -- Options for EPUB output
 epub_show_urls = "footnote"
