@@ -9,44 +9,45 @@ BlendAI Documentation
 Welcome to the BlendAI documentation! Here you will find everything you need to know about BlendAI and how to use it in Blender.
 
 
-========
-Contents
-========
-
-***************
 Getting Started
-***************
+===============
 
-.. toctree::
-    :maxdepth: 1
-    
-    blendai
-    installation
-    preferences
 
-********
-Features
-********
+:doc:`blendai`
+:doc:`installation`
+:doc:`preferences`
 
-.. toctree::
-    :maxdepth: 1
+.. container:: global-index-toc
 
-    Chat
-    Explain
-    Organize
-    Task Automation
-    Render Suggestions
-    Reference Images
-    Texture Generation
-    Upscale Image
-    Inpaint Image
+   .. toctree::
+      :caption: Getting Started
+      :maxdepth: 1
 
-**************
-News & Support
-**************
+        blendai
+        installation
+        preferences
 
-.. toctree::
-    :maxdepth: 1
+.. ********
+.. Features
+.. ********
 
-    changelog
-    contact
+..     :maxdepth: 1
+
+..     Chat
+..     Explain
+..     Organize
+..     Task Automation
+..     Render Suggestions
+..     Reference Images
+..     Texture Generation
+..     Upscale Image
+..     Inpaint Image
+
+.. **************
+.. News & Support
+.. **************
+
+..     :maxdepth: 1
+
+..     changelog
+..     contact
