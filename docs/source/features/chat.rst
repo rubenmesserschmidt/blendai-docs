@@ -7,6 +7,46 @@ Chat with your personal assistant, whenever you want and wherever you are. Get h
 Input Field
 ===========
 
+Message
+    Type your message here.
+    - **Auto Send**: Automatically send the message on pressing ``ENTER`` by holding this :ref:`hotkey <preferences_keymap>`.
+    - **Auto Reply**: Automatically reply to the last message by holding this :ref:`hotkey <preferences_keymap>`.
+
+    .. tip::
+
+        BlendAI does always know in which space you are working right now. Therefore, you can ask questions and get help with the current context in Blender.
+
+Attach Files
+    Attach text and image files to your message. Opens a file dialog to select internal and external files.
+
+    - **Internal File Browser**: Browse and select files from your Blender file system. The file select works the same as in the Blender file browser.
+
+    .. note::
+
+        The following file types are supported: ``.txt``, ``.xlsx``, ``.xls``, ``.csv``, ``.py``, ``.png``, ``.jpg``, ``.jpeg``
+  
+    .. warning::
+
+        The maximum total input size is 1000 characters. This includes the message and all attachments.
+        For images, you can attach a maximum of 2 files per message.
+
+Send
+    Send your message to BlendAI.
+
+
+Conversation
+============
+
+Message
+    The message you sent to BlendAI.
+    - **Edit**: Edit the message. This will paste your message and attachments if any into the input field.
+    - **Remove**: Delete this message including BlendAI's response from the chat.
+
+Response
+    BlendAI's response to your message.
+    - **Reply**: Reply to this response. If enabled, your next message will be a reply to this response. This is useful for following up on a specific topic.
+    - **Copy**: Copy the response to the clipboard.
+    - **Info**: Show additional information about the response such as time needed to generate it and quality settings used.
 
 
 Popup
@@ -24,15 +64,15 @@ While your answer is being generated, you can cancel anytime by pressing ``ESC``
 Create New Chat
     This will create a new empty chat. If you have an active chat, it will be saved to your chat history located in the :ref:`main_panel`.
 
+Input Field
+    See :ref:`Input Field`.
 
-Reply
-=====
-
-Attachments
-===========
 
 Examples
 ========
+
+
+
 
 Limitations
 ===========

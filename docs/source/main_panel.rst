@@ -40,23 +40,6 @@ Preferences
 Chat
 ====
 
-Input Field
-    Type your message here.
-
-Attach Files
-    Attach text and image files to your message. Opens a file dialog to select internal and external files.
-
-    - **Internal File Browser**: Browse and select files from your Blender file system. The file select works the same as in the Blender file browser.
-
-    .. note::
-
-        The following file types are supported: ``.txt``, ``.xlsx``, ``.xls``, ``.csv``, ``.py``, ``.png``, ``.jpg``, ``.jpeg``
-  
-    .. warning::
-
-        You can attach a maximum of 2 image files per message.
-
-Send
-    Send your message to BlendAI.
+Chat with BlendAI in the sidebar. Learn more about the chat feature in :doc:`features/chat`.
     
 
