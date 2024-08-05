@@ -12,6 +12,10 @@ Sidebar
 Popup
 =====
 
+Chat with BlendAI in a popup window with this :ref:`hotkey <_preferences_keymap>`.
+This allows you to get help as fast as possible, without interrupting your workflow.
+
+
 Reply
 =====
 

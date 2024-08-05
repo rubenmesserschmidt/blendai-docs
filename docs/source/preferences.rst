@@ -67,6 +67,8 @@ Sidebar
    - **Merge into 'Rubens Addons'**: Merge the BlendAI sidebar panel into a single panel with other addons from me. This will save space in the sidebar and makes things more organized.
 
 
+.. _preferences_keymap:
+
 Keymap
 ------
 
