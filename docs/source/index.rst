@@ -13,8 +13,10 @@ Welcome to the BlendAI documentation! Here you will find everything you need to 
 Contents
 ========
 
+Getting Started
+===============
+
 .. toctree::
-    :caption: Getting Started
     :maxdepth: 1
     
     introduction
