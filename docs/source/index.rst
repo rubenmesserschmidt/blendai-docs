@@ -34,6 +34,8 @@ Getting Started
     features/chat
     features/explain
     features/organize
+    features/generate_script
+    features/test_script
     
     Explain
     Organize

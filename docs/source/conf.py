@@ -37,5 +37,7 @@ html_theme = "furo"
 
 html_logo = "images/blendai_logo.svg"
 
+html_title = "BlendAI Documentation"
+
 # -- Options for EPUB output
 epub_show_urls = "footnote"
