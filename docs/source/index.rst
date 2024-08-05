@@ -31,6 +31,7 @@ Getting Started
 
     features/chat
     features/explain
+    features/organize
     
     Explain
     Organize
