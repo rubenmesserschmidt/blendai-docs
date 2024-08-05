@@ -37,3 +37,15 @@ BlendAI's organize feature can make your scene more structured but has some limi
 
 
 Pricing
+=======
+
+The price per organization is based on every started amount of objects plus a base price.
+
+High Quality
+    :Base Price: 0 Credits
+    :Per started 10 objects: 1 Credit
+
+Balanced Quality
+    :Base Price: 1 Credit
+    :Per started 5 objects: 1 Credit
+
