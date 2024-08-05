@@ -2,6 +2,7 @@
 BlendAI Documentation
 %%%%%%%%%%%%%%%%%%%%%
 
+
 .. image:: images/blendai_thumbnail.jpg
    :width: 600
    :alt: BlendAI Thumbnail
