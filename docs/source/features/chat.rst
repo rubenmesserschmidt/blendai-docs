@@ -97,6 +97,8 @@ BlendAI's Chat feature is very powerful, but it has its limitations. Here are so
 Pricing
 =======
 
-Quality
-    :High: 10 Credits / Message
-    :Balanced: 2 Credit / Message
+Balanced Quality
+    :Price Per Message: **2** Credits
+
+High Quality
+    :Price Per Message: **10** Credits
