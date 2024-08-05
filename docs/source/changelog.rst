@@ -24,7 +24,7 @@ Changelog
 1.0.0
 #####
 
-*April 9th, 2024*
+*August 7th, 2024*
 
 Initial Release
 

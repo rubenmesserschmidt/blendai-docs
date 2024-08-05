@@ -37,3 +37,6 @@ html_theme = "furo"
 
 # -- Options for EPUB output
 epub_show_urls = "footnote"
+
+# the master toctree document
+master_doc = "blendai"
