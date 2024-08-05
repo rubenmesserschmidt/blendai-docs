@@ -10,7 +10,7 @@ You can install the BlendAI extension by drag and drop from the download page or
 .. raw:: html
 
     <video width="100%" controls>
-        <source src="./videos/blendai_download-page_install-extension.mp4" type="video/mp4">
+        <source src="https://imgur.com/wIzi1DM" type="video/mp4">
         Your browser does not support the video tag.
     </video>
 
