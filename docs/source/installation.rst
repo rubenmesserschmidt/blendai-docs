@@ -9,10 +9,10 @@ You can install the BlendAI extension by drag and drop from the download page or
 
 .. raw:: html
 
-    <video width="100%" controls>
-        <source src="https://imgur.com/wIzi1DM" type="video/mp4">
-        Your browser does not support the video tag.
-    </video>
+    <blockquote class="imgur-embed-pub" lang="en" data-id="a/your_video_id">
+        <a href="//imgur.com/JplUdBw">Watch video on Imgur</a>
+    </blockquote>
+    <script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 
 Older Versions
