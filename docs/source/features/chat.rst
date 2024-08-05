@@ -4,6 +4,8 @@ Chat
 
 Chat with your personal assistant, whenever you want and wherever you are. Get help with everything you need, from simple questions to complex tasks. The assistant is always there for you, ready to help.
 
+.. _chat_input_field:
+
 Input Field
 ===========
 
@@ -46,7 +48,7 @@ Message
 
 Response
     BlendAI's response to your message.
-    
+
     - **Reply**: Reply to this response. If enabled, your next message will be a reply to this response. This is useful for following up on a specific topic.
     - **Copy**: Copy the response to the clipboard.
     - **Info**: Show additional information about the response such as time needed to generate it and quality settings used.
@@ -65,10 +67,10 @@ While your answer is being generated, you can cancel anytime by pressing ``ESC``
     During the generation of an answer, the popup is attached to your cursor and moves with it. This is because it has to be redrawn every frame to show the progress of the generation. Hopefully, Blenders popup system will be improved in the future to allow for a more stable experience.
 
 Create New Chat
-    This will create a new empty chat. If you have an active chat, it will be saved to your chat history located in the :ref:`main_panel`.
+    This will create a new empty chat. If you have an active chat, it will be saved to your chat history located in the :ref:`Main Panel<main_panel_menu>`.
 
 Input Field
-    See :ref:`Input Field`.
+    See :ref:`chat_input_field`.
 
 
 Examples

@@ -7,6 +7,8 @@ Its also possible to merge it into a single panel with other addons from me, see
 
 The main panel consists of a menu section and a chat section.
 
+.. _main_panel_menu:
+
 Menu
 ====
 
