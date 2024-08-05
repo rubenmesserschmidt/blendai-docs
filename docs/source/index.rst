@@ -30,6 +30,7 @@ Getting Started
     :maxdepth: 1
 
     features/chat
+    features/explain
     
     Explain
     Organize
