@@ -2,37 +2,21 @@
 Test Script
 ***********
 
-Automate recurring tasks to streamline your workflow by creating scripts with BlendAI.
+Test your generated scripts in their respective spaces.
+
+
+How it Works
+============
+
+The current open script in the text editor will be executed in the selected space. If an error occurs, the script stops and a popup will appear with the error message and the option to try to fix it with :doc:`fix_script`.
 
 
 Settings
 ========
 
-Description
-    Instructions of what the script should do. The more detailed the description, the better the script can be generated.
-
 Space
-    The space in which the script should be working in. For example, if you want to automate a task for shaders, choose the Node Editor.
+    The space in which you want to run the script.
 
-Generation Quality
-    See :ref:`here<preferences_generation_quality>`.
+    .. important::
 
-
-Limitations
-===========
-
-BlendAI's generate script feature can help you automate tasks but has some limitations:
-
-- **BlendAI can make mistakes**: The generated scripts may contain errors and not works as expected. So use them with caution and test them before with :doc:`test_script`.
-- **Random named objects**: Objects without a descriptive name may not be organized correctly. Meaning this feature only works well if your objects are named properly. This could be improved in the future.
-
-
-Pricing
-=======
-
-Balanced Quality
-    :Price per script: ``5`` Credits
-
-High Quality
-    :Price per script: ``25`` Credits
-
+        Make sure to have this space open in your current worspace.
