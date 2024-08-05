@@ -47,6 +47,8 @@ Chat
    - **Profile**: Change your profile picture and name. This is how you will show up in conversations and how your assistant will address you when set to other than ``You``.
    - **Language**: Change the language of your assistant. When set to ``Automatic`` the language will be set to the language of your Blender preferences.
 
+.. _preferences_generation_quality:
+
 Generation
    - **Quality**: Change the quality of the responses from your assistant for all text based features.
   

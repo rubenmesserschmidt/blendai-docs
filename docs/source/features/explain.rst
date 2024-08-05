@@ -4,6 +4,9 @@ Explain
 
 Let BlendAI explain you any setting, operator, or node in Blender. This is a powerful feature to get help with Blender's vast amount of features and settings, even for the most experienced users.
 
+How it Works
+============
+
 Simply right-click on what you wanna know more of and choose *Explain* from the context menu. BlendAI will then provide you with a detailed explanation of the property and its use cases.
 For explaining nodes, select it before opening the context menu.
 

@@ -93,3 +93,10 @@ BlendAI's Chat feature is very powerful, but it has its limitations. Here are so
 - **BlendAI can make mistakes**: The assistant is not perfect and can make mistakes. This is due to the nature of AI but will only improve from here. So consider checking important information.
 - **Complex questions**: While BlendAI can help with complex tasks, it does not know perfectly about every feature of Blender.
 - **Latest features**: BlendAI does not have real-time information about the latest Blender features. So consider checking the Blender manual or other sources for the latest information.
+
+Pricing
+=======
+
+Quality
+    :High: 10 Credits / Message
+    :Balanced: 2 Credit / Message
