@@ -98,7 +98,7 @@ Pricing
 =======
 
 Balanced Quality
-    :Price Per Message: **2** Credits
+    :Price Per Message: ``2`` Credits
 
 High Quality
-    :Price Per Message: **10** Credits
+    :Price Per Message: ``10`` Credits
