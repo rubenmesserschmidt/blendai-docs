@@ -27,11 +27,32 @@ Contents
 ========
 
 .. toctree::
-    :caption: Features
+    :caption: Get Started
     :maxdepth: 1
     
+    blendai
     installation
     preferences
-    update
+
+
+.. toctree::
+    :caption: Features
+    :maxdepth: 1
+
+    Chat
+    Explain
+    Organize
+    Task Automation
+    Render Suggestions
+    Reference Images
+    Texture Generation
+    Upscale Image
+    Inpaint Image
+
+
+.. toctree::
+    :caption: News & Support
+    :maxdepth: 1
+
     changelog
     contact
