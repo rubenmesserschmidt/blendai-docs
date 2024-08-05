@@ -6,28 +6,29 @@ BlendAI Documentation
    :width: 600
    :alt: BlendAI Thumbnail
 
-
-============
-Introduction
-============
-
+Welcome to the BlendAI documentation! Here you will find everything you need to know about BlendAI and how to use it in Blender.
 
 
 ========
 Contents
 ========
 
+***************
+Getting Started
+***************
+
 .. toctree::
-    :caption: Get Started
     :maxdepth: 1
     
     blendai
     installation
     preferences
 
+********
+Features
+********
 
 .. toctree::
-    :caption: Features
     :maxdepth: 1
 
     Chat
@@ -40,9 +41,11 @@ Contents
     Upscale Image
     Inpaint Image
 
+**************
+News & Support
+**************
 
 .. toctree::
-    :caption: News & Support
     :maxdepth: 1
 
     changelog
