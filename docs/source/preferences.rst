@@ -29,7 +29,10 @@ Get Credits
 
 Redeem Recharge Code
    Redeem a recharge code you received when purchasing credits. This will add the credits to your account.
-   .. important:: Recharge Codes are interchangeable and can be used by anyone. Do not share these codes with anyone you do not trust.
+   
+   .. important::
+   
+      Recharge Codes are interchangeable and can be used by anyone. Do not share these codes with anyone you do not trust.
    
 
 Settings
