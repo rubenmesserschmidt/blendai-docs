@@ -12,7 +12,7 @@ Input Field
 Popup
 =====
 
-Chat with BlendAI in a popup window with this :ref:`hotkey <_preferences_keymap>`.
+Chat with BlendAI in a popup window with this :ref:`hotkey <preferences_keymap>`.
 This allows you to get help as fast as possible, without interrupting your workflow.
 
 While your answer is being generated, you can cancel anytime by pressing ``ESC``.
