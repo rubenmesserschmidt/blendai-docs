@@ -35,5 +35,7 @@ templates_path = ["_templates"]
 
 html_theme = "furo"
 
+html_logo = "images/blendai_logo.svg"
+
 # -- Options for EPUB output
 epub_show_urls = "footnote"
