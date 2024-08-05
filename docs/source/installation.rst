@@ -10,7 +10,7 @@ You can install the BlendAI extension by drag and drop from the download page or
 .. raw:: html
 
     <video width="100%" controls>
-      <source src="https://api.rubenmesserschmidt.com/blendai/public/videos/download-page_install-extension.mp4" type="video/mp4">
+      <source src="https://api.rubenmesserschmidt.com/blendai/public/videos/download-page_install-extension.mp4" type="video/mp4" >
         Your browser does not support the video tag.
     </video>
 
@@ -18,14 +18,11 @@ You can install the BlendAI extension by drag and drop from the download page or
 Older Versions
 ==============
 
+Install BlendAI the same way as any other Blender addon.
 
-1. Go to *Edit/Preferences*.
-#. Select *Add-ons* on the left.
-#. Click *Install...* in the top right corner. This will open a file dialog
-#. Navigate to where you have downloaded the **BlendAI_x.x.x.zip** file. 
-   Do not unpack this file.
-#. Click the *Install add-on from file* button.
-#. Search for the Add-on by typing **BlendAI** in the search box if it does not already appear.
-#. Tick the checkbox next to the Add-on to enable it.
+.. raw:: html
 
-If you have any issues feel free to get in touch via :doc:`contact`.
+    <video width="100%" controls>
+      <source src="https://api.rubenmesserschmidt.com/blendai/public/videos/download-page_install-addon.mp4" type="video/mp4" >
+        Your browser does not support the video tag.
+    </video>

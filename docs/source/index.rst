@@ -23,6 +23,7 @@ Getting Started
     
     introduction
     installation
+    update
     main_panel
     preferences
 
