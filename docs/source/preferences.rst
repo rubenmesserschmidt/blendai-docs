@@ -23,8 +23,12 @@ Balance
 =======
 
 Here you find your current credit balance.
-   - **Get Credits**: Add more credits to your account. This will open a new browser window to the BlendAI product page where you can purchase more credits.
-   - **Redeem Recharge Code**: Redeem a recharge code you received when purchasing credits. This will add the credits to your account. .. important:: Recharge Codes are interchangeable and can be used by anyone. Do not share these codes with anyone you do not trust.
+
+Get Credits
+   Add more credits to your account. This will open a new browser window to the BlendAI product page where you can purchase more credits.
+
+Redeem Recharge Code
+   Redeem a recharge code you received when purchasing credits. This will add the credits to your account. .. important:: Recharge Codes are interchangeable and can be used by anyone. Do not share these codes with anyone you do not trust.
    
 
 Settings
@@ -36,21 +40,34 @@ General
 -------
 
 Chat
-   - **Profile**: Change your profile picture and name. This is how you will show up in conversations and how your assistant will address you when set to other than `You`.
-   - **Language**: Change the language of your assistant. When set to `Automatic` the language will be set to the language of your Blender preferences.
+   - **Profile**: Change your profile picture and name. This is how you will show up in conversations and how your assistant will address you when set to other than ``You``.
+   - **Language**: Change the language of your assistant. When set to ``Automatic`` the language will be set to the language of your Blender preferences.
 
 Generation
    - **Quality**: Change the quality of the responses from your assistant for all text based features.
-  
       :High: Highest quality, more detailed and coherent responses, strongest reasoning and vision capabilities. Makes less mistakes. Recommended for the best experience and more complex tasks.
       :Balanced: Balanced quality, cost-efficient responses, good reasoning and vision capabilities. Can make more mistakes. Recommended if on a lower budget and for simpler tasks.
       :Custom: Use different quality settings for different features. Recommended for advanced users who want to fine-tune their experience.
 
+
 Display
 -------
 
+Popup
+   - **Width**: Change the width of the chat popup window.
+
+Sidebar
+   - **Merge into 'Rubens Addons'**: Merge the BlendAI sidebar panel into a single panel with other addons from me. This will save space in the sidebar and makes things more organized.
+
+
 Keymap
 ------
+
+Here you find all hotkeys for BlendAI.
+
+Keys
+   - **Popup**: Open the chat popup window.
+      :Default: ``Ctrl + Shift + A``
 
 Versions
 --------
