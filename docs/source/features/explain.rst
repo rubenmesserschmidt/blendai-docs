@@ -9,7 +9,7 @@ For explaining nodes, select it before opening the context menu.
 
 .. tip::
 
-    When holding ``SHIFT`` while clicking *Explain*, the chat popup will be used.
+    When holding ``SHIFT`` while clicking *Explain*, BlendAI will answer in the Chat :ref:`chat_popup`.
 
 You can reply to the explanation as usual to ask further questions or get more information.
 

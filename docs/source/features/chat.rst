@@ -53,6 +53,7 @@ Response
     - **Copy**: Copy the response to the clipboard.
     - **Info**: Show additional information about the response such as time needed to generate it and quality settings used.
 
+.. _chat_popup:
 
 Popup
 =====
