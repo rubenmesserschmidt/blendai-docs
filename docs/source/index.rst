@@ -35,6 +35,8 @@ Getting Started
     features/explain
     features/organize
     features/generate_script
+    features/edit_script
+    features/fix_script
     features/test_script
     
     Explain
