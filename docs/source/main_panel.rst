@@ -42,6 +42,6 @@ Preferences
 Chat
 ====
 
-Chat with BlendAI in the sidebar. Learn more about the chat feature in :doc:`features/chat`.
+Chat with BlendAI in the sidebar. See :doc:`features/chat`.
     
 
