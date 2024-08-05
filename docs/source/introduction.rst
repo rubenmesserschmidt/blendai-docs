@@ -31,4 +31,3 @@ Why Choose BlendAI?
 - **Innovative Features**: Harness the power of the most advanced AI tools to improve and save time.
 
 BlendAI's goal is to utilize AI wherever it can be used to improve. Therefore it will continuously evolve as new AI technology emerges. This is just the beginning, so stay tuned for what the future brings us!
-
