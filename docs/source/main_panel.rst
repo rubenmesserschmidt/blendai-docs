@@ -20,7 +20,7 @@ Chat History
 
     - **Search Chat**: Search for a specific chat by its name.
     - **Load Chat**: Load a chat from the history to continue it.
-    - **Edit Chat**: Edit the name of a chat.
+    - **Edit Chat**: Edit the name of a chat. The default name is the first message of the chat.
     - **Delete Chat**: Delete a chat from the history.
 
 Script Presets
