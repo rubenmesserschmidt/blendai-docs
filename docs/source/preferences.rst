@@ -55,6 +55,8 @@ Generation
    :Custom: Use different quality settings for different features. Recommended for advanced users who want to fine-tune their experience.
 
 
+.. _preferences_display:
+
 Display
 -------
 
