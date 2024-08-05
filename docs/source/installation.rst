@@ -8,7 +8,7 @@ Blender 4.2 and higher
 .. raw:: html
 
     <video width="100%" controls>
-        <source src="../videos/blendai_download-page_install-extension.mp4" type="video/mp4">
+        <source src="./videos/blendai_download-page_install-extension.mp4" type="video/mp4">
         Your browser does not support the video tag.
     </video>
 
