@@ -65,8 +65,6 @@ Sidebar
 Keymap
 ------
 
-Here you find all hotkeys for BlendAI.
-
 Keys
    - **Popup**: Open the chat popup window.
 
@@ -76,7 +74,7 @@ Modifiers
    - **Auto Send**: Automatically send the message on pressing Enter.
 
    :Default: ``Shift``
-   
+
    - **Auto Reply**: Automatically reply to the last message.
 
    :Default: ``Alt``
@@ -84,7 +82,39 @@ Modifiers
 Versions
 --------
 
+Update (Only if installed as Legacy Addon)
+   - **Update Check**
+      Check if your current BlendAI installation is up to date. If there is a new version available you can download and install it automatically by choosing 'Ok' in the update dialog.
+
+   - **Check on Startup**
+      Automatically check for updates every time you start Blender.
+
+Early Access
+   - **Request Early Access**
+      Request early access to the latest BlendAI features and updates. If you are accepted you will receive prerelease updates of BlendAI for testing before they are available to the public.
+
 About
 -----
+
+Legal
+   - **Terms and Conditions**: Open the BlendAI terms and conditions.
+
+Links
+   - **Send an Email**: Send an email to the developer.
+   - **Join Discord**: Join the Rubens Addons Discord server.
+   - **Find Tutorials**: Find tutorials on BlendAI and more.
+   - **Expand Toolset**: Find more addons made by the developer.
+
+
+Support
+=======
+
+Report a Bug
+   Report a bug to the developer. This will open your email client with a pre-filled email. Please provide as much information as possible to help the developer fix the issue.
+
+Feature Request
+   Request a feature to be added to BlendAI. This will open your email client with a pre-filled email. Please provide as much information as possible to help the developer understand your request.
+
+
 
 
