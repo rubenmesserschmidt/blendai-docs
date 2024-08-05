@@ -26,3 +26,13 @@ The explain feature is very helpful but has some limitations:
 - **New features**: BlendAI may not know about the latest features in Blender and may not be able to explain them correctly. Use the Blender manual or other sources for the latest information.
 - **Complex Operators**: Some operators come in many different configurations, which can lead to BlendAI telling you about internal settings that may not be useful for you.
 - **Composition nodes**: Composition nodes are not supported yet but will be added in the future.
+
+
+Pricing
+=======
+
+Balanced Quality
+    :Price per Explanation: ``1`` Credit
+
+High Quality
+    :Price per Explanation: ``5`` Credits

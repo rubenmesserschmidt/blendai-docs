@@ -42,10 +42,10 @@ Pricing
 The price per organization is based on every started amount of objects plus a base price.
 
 Balanced Quality
-    :Base Price: **1** Credit
-    :Per started 5 objects: **1** Credit
+    :Base Price: ``1`` Credit
+    :Per started 5 objects: ``1`` Credit
 
 High Quality
-    :Base Price: **0** Credits
-    :Per started 10 objects: **1** Credit
+    :Base Price: ``0`` Credits
+    :Per started 10 objects: ``1`` Credit
 
