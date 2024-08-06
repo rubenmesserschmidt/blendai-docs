@@ -9,7 +9,7 @@ How it Works
 
 BlendAI will change masked out areas in the current open image in the image editor. The result is a new image which will automatically be loaded into the editor. So you will always keep the original image.
 
-- **Result Resolution**: 1024 x 1024 pixels
+- **Result Resolution**: 1024 x 1024 pixels, no matter the original image resolution.
 
 
 Settings

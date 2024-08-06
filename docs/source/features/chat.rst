@@ -42,11 +42,18 @@ Send
 Conversation
 ============
 
+Each conversation consists of a message and a response, with the feature used displayed in the header.
+
 Message
     The message you sent to BlendAI.
 
     - **Edit**: Edit the message. This will paste your message and attachments if any into the input field.
     - **Remove**: Delete this message including BlendAI's response from the chat.
+    - **Attachments**: If you attached any files, they are displayed above your message.
+
+    .. tip::
+        
+        You can open attached files by clicking on their icon.
 
 Response
     BlendAI's response to your message.
@@ -54,6 +61,7 @@ Response
     - **Reply**: Reply to this response. If enabled, your next message will be a reply to this response. This is useful for following up on a specific topic.
     - **Copy**: Copy the response to the clipboard.
     - **Info**: Show additional information about the response such as time needed to generate it and quality settings used.
+    - **Attachments**: If BlendAI generated any file like an image or script, its displayed above the response. Here you also got the option to delete it.
 
 .. _chat_popup:
 
