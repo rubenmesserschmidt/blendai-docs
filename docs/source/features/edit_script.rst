@@ -9,6 +9,8 @@ How it Works
 ============
 
 The feature will be executed on the current active script in the text editor.
+The resulting script will automatically be loaded into the text editor and attached to BlendAI's response in the :doc:`chat`.
+The response will show a comparsion of what changes were made.
 
 
 Settings

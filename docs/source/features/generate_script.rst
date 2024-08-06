@@ -9,6 +9,7 @@ How it Works
 ============
 
 When starting the script generation, BlendAI will create a new Python file with an appropriate name. Then it will generate the script based on the instructions you provided.
+The resulting script will automatically be loaded into the text editor and attached to BlendAI's response in the :doc:`chat`.
 
 
 Settings

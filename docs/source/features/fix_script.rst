@@ -9,6 +9,8 @@ How it Works
 ============
 
 The feature will be executed on the current active script in the text editor. When starting the script fix, BlendAI will overwrite the script with the fixed version. If you want to keep the old version, make sure to save it before.
+The resulting script will automatically be loaded into the text editor and attached to BlendAI's response in the :doc:`chat`.
+The response will show a comparsion of what changes were made.
 
 
 Settings
