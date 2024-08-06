@@ -4,15 +4,6 @@ Reference Images
 
 Generate reference images for your projects. This allows you to visualize your ideas and get plenty of inspiration, especially when creating something that does not exist yet.
 
-How it Works
-============
-
-BlendAI will give you suggestions on how to improve the current open image in the image editor. It will answer in the chat of the :doc:`main_panel` with 5-10 suggestions and creative ideas.
-
-.. tip::
-
-    You can follow up with questions on specific suggestions or ask for how to implement them by replying to the :ref:`response<chat_conversation>` as usual.
-
 
 Settings
 ========
