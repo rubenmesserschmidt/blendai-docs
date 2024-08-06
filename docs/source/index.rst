@@ -23,6 +23,7 @@ Contents
     update
     main_panel
     preferences
+    credits
 
 .. toctree::
     :caption: Features

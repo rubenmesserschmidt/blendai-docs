@@ -17,24 +17,32 @@ BlendAI will give you suggestions on how to improve the current open image in th
 Settings
 ========
 
-Description (optional)
-    A description of what your render should look like or specify what you want to improve. Leave this blank for general suggestions.
+Description
+    The description of the object or scene you want to create. The more detailed you are, the better the reference images will be. Here are some examples:
+
+    - Futuristic car
+    - Alien plant
+    - Holographic ring
+    - New planet
+
+Amount
+    :Single: Generate an image with a single visualization of your idea. Great for anything you have in mind.
+    :Multiple: Generate an image with multiple variations of your idea. This can be useful to explore different possibilities in one go. Works best with objects, whole scenes are not recommended.
 
 
 Limitations
 ===========
 
-BlendAI's render suggestions feature will make you improve, but it has its limitations:
+BlendAI's reference images feature will inspire you, but it has its limitations:
 
-- **BlendAI can make mistakes**: Just like when chatting, BlendAI can make mistakes when giving suggestions. Consider checking important information.
-- **Image recognition**: BlendAI can miss details in the image which can lead to suggestions that are wrong or already implemented.
+- **BlendAI can make mistakes**: The generated images are not guaranteed to be perfect and can contain mistakes.
+- **Description understanding**: BlendAI can miss details of your description which can lead to images that are not what you expected.
+- **Multiple variations**: When using the multiple option, sometimes variations can be very similar to each other or there can be only one at all.
 
 
 Pricing
 =======
 
-Balanced Quality
-    :Price per Suggestions: ``2`` Credit
+:Price per Reference Image: ``10`` Credits
 
-High Quality
-    :Price per Suggestions: ``10`` Credits
+Learn more about :doc:`../credits`.
