@@ -12,7 +12,7 @@ Input Field
 Message
     Type your message here.
 
-    - **Auto Send**: Automatically send the message on pressing ``ENTER`` by holding this :ref:`hotkey <preferences_keymap>`.
+    - **Auto Send**: Automatically send the message on pressing ``Enter`` by holding this :ref:`hotkey <preferences_keymap>`.
     - **Auto Reply**: Automatically reply to the last message by holding this :ref:`hotkey <preferences_keymap>`.
 
     .. tip::
@@ -71,7 +71,7 @@ Popup
 Chat with BlendAI in a popup window with this :ref:`hotkey <preferences_keymap>`.
 This allows you to get help as fast as possible, without interrupting your workflow.
 
-While your answer is being generated, you can cancel anytime by pressing ``ESC``.
+While your answer is being generated, you can cancel anytime by pressing ``Esc``.
 
 .. note::
 

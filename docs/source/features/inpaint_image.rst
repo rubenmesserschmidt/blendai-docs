@@ -25,7 +25,7 @@ Description
 
 Mask
     :Alpha: Use the alpha channel of the image as the mask for inpainting.
-    - **Paint Mask**: This will switch to the mask paint mode where you can paint the alpha in the image. To finish painting, press ``SHIFT + ENTER``, this will bring the popup back up where you can commit and start the generation. To cancel painting, press ``SHIFT + ESC``.
+    - **Paint Mask**: This will switch to the mask paint mode where you can paint the alpha in the image. To finish painting, press ``Shift + Enter``, this will bring the popup back up where you can commit and start the generation. To cancel painting, press ``Shift + Esc``.
 
     .. tip::
 
