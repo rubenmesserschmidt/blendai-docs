@@ -40,6 +40,7 @@ Contents
     features/render_suggestions
     features/reference_images
     features/texture_generation
+    features/upscale_image
     
     Reference Images
     Texture Generation
