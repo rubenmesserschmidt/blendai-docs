@@ -35,6 +35,8 @@ BlendAI's render suggestions feature will make you improve, but it has its limit
 - **Image recognition**: BlendAI can miss details in the image which can lead to suggestions that are wrong or already implemented.
 
 
+.. _render_suggestions_pricing:
+
 Pricing
 =======
 

@@ -39,6 +39,8 @@ BlendAI's reference images feature will inspire you, but it has its limitations:
 - **Multiple variations**: When using the multiple option, sometimes variations can be very similar to each other or there can be only one at all.
 
 
+.. _reference_images_pricing:
+
 Pricing
 =======
 

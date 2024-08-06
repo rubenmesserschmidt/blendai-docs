@@ -45,6 +45,8 @@ BlendAI's inpaint feature will give you insights that save you much work, but it
 - **Color and quality**: The resulting image can have subtle color and quality changes in the non-masked areas.
 
 
+.. _inpaint_image_pricing:
+
 Pricing
 =======
 

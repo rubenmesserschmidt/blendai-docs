@@ -39,6 +39,8 @@ BlendAI's generate script feature can help you automate tasks but has some limit
 - **Script complexity**: BlendAI can only generate scripts up to 8000 characters long. The more complex the script, the more likely it will contain errors.
 
 
+.. _generate_script_pricing:
+
 Pricing
 =======
 

@@ -43,6 +43,8 @@ BlendAI's texture generation feature creates great textures fast, but it has its
 - **Seams**: The generated textures are not guaranteed to be seamless and can contain visible seams here and there.
 
 
+.. _texture_generation_pricing:
+
 Pricing
 =======
 

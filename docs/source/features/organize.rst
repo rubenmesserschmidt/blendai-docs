@@ -36,6 +36,8 @@ BlendAI's organize feature can make your scene more structured but has some limi
 - **Random named objects**: Objects without a descriptive name may not be organized correctly. Meaning this feature only works well if your objects are named properly. This could be improved in the future.
 
 
+.. _organize_pricing:
+
 Pricing
 =======
 

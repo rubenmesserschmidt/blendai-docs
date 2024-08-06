@@ -30,6 +30,8 @@ BlendAI's upscale feature will save you endless hours, but it has its limitation
 - **Blurry**: In low resolution images, very noisy areas can become blurry when upscaling.
 
 
+.. _upscale_image_pricing:
+
 Pricing
 =======
 

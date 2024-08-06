@@ -28,6 +28,8 @@ The explain feature is very helpful but has some limitations:
 - **Composition nodes**: Composition nodes are not supported yet but will be added in the future.
 
 
+.. _explain_pricing:
+
 Pricing
 =======
 

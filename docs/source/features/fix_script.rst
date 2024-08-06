@@ -39,6 +39,8 @@ BlendAI's fix script feature can help you fix errors in your scripts but has som
 - **Script length**: BlendAI can only generate scripts up to 8000 characters long. If your script is longer, consider splitting it into multiple parts.
 
 
+.. _fix_script_pricing:
+
 Pricing
 =======
 
