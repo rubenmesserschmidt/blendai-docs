@@ -5,6 +5,22 @@ Texture Generation
 Generate textures from your imagination in seconds. This feature is prefect for creating textures that are not in the main focus of your project or when you need a quick solution or inspiration.
 
 
+How it Works
+============
+
+BlendAI will generate a image texture based on the description you provided. The result will automatically be loaded into the image editor.
+
+- **Resolution**: 1024 x 1024 pixels
+
+.. tip::
+
+    Increase the resolution of your generated textures with :doc:`upscale_image`.
+
+.. tip::
+
+    Or create variations of your texture tiles with :doc:`inpaint_image`.
+
+
 Settings
 ========
 

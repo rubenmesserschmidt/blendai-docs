@@ -5,6 +5,14 @@ Reference Images
 Generate reference images for your projects. This allows you to visualize your ideas and get plenty of inspiration, especially when creating something that does not exist yet.
 
 
+How it Works
+============
+
+BlendAI will generate a reference image based on the description you provided. The result will automatically be loaded into the image editor.
+
+- **Resolution**: 1024 x 1024 pixels
+
+
 Settings
 ========
 

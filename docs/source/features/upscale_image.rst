@@ -5,6 +5,12 @@ Upscale Image
 Upscale your images to a higher resolution in a matter of seconds. This feature is perfect for reducing render times and increasing the resolution of textures or other images.
 
 
+How it Works
+============
+
+BlendAI will upscale the current open image in the image editor to the resolution you specified. The result will automatically be loaded into the image editor.
+
+
 Settings
 ========
 
