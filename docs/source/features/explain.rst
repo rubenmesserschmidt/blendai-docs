@@ -17,6 +17,8 @@ For explaining nodes, select it before opening the context menu.
 You can reply to the explanation as usual to ask further questions or get more information.
 
 
+.. _explain_limitations:
+
 Limitations
 ===========
 

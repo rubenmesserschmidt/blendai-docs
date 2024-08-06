@@ -29,6 +29,8 @@ Generation Quality
     Test your generated script in the space of your choice with :doc:`test_script`.
 
 
+.. _generate_script_limitations:
+
 Limitations
 ===========
 

@@ -29,6 +29,8 @@ Amount
     :Multiple: Generate an image with multiple variations of your idea. This can be useful to explore different possibilities in one go. Works best with objects, whole scenes are not recommended.
 
 
+.. _reference_images_limitations:
+
 Limitations
 ===========
 

@@ -26,6 +26,8 @@ Description (optional)
     - How can I make the colors pop more?
 
 
+.. _render_suggestions_limitations:
+
 Limitations
 ===========
 

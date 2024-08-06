@@ -21,6 +21,8 @@ Face Enhance
     Enhance faces in the image to make them look more detailed and realistic. This option has no effect on images without faces.
 
 
+.. _upscale_image_limitations:
+
 Limitations
 ===========
 

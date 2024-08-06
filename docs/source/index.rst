@@ -24,6 +24,7 @@ Contents
     main_panel
     preferences
     credits
+    limitations
 
 .. toctree::
     :caption: Features

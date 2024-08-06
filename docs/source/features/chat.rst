@@ -95,6 +95,8 @@ You can ask BlendAI virtually anything about Blender and 3D in general. Here are
 - Why is my object not rendering?
 
 
+.. _chat_limitations:
+
 Limitations
 ===========
 

@@ -34,6 +34,9 @@ Mask
     :Image: Use another image as the mask for inpainting. All white pixels in the image will be used as the mask, black pixels will be kept. Make sure the mask image has the same dimensions as the original image.
     - **Open**: This will open a file dialog where you can select the mask image.
 
+
+.. _inpaint_image_limitations:
+
 Limitations
 ===========
 

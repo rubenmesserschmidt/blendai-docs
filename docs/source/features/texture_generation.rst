@@ -33,6 +33,8 @@ Description
     - Transparent glass with cracks
 
 
+.. _texture_generation_limitations:
+
 Limitations
 ===========
 
