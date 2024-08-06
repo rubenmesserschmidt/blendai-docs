@@ -28,7 +28,7 @@ Chat History
 .. _main_panel_menu_script_presets:
 
 Script Presets
-    Open your script presets made with the :ref:`_scripts_script_preset` feature.
+    Open your script presets made with the :doc:`save_script_preset` feature.
 
     - **Search Preset**: Search for a specific preset by its name.
     - **Space Filter**: Filter the presets by the space they are made for.

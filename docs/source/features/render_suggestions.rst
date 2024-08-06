@@ -7,7 +7,7 @@ Let BlendAI give you suggestions on how to improve your render. This feature is 
 How it Works
 ============
 
-BlendAI will give you suggestions on how to improve the current open image in the image editor. It will answer in the chat of the :doc:`main_panel` with 5-10 suggestions and creative ideas.
+BlendAI will give you suggestions on how to improve the current open image in the image editor. It will answer in the chat of the :doc:`../main_panel` with 5-10 suggestions and creative ideas.
 
 .. tip::
 
@@ -18,9 +18,8 @@ Settings
 ========
 
 Description (optional)
-    A description of what your render should look like or specify what you want to improve. Leave this blank for general suggestions.
+    A description of what your render should look like or specify what you want to improve. Leave this blank for general suggestions. Here are some examples:
 
-    Examples:
     - Stylized rocks, how can I improve the lighting.
     - Realistic axe, I need help with the composition.
     - What can I do to make the scene more interesting?

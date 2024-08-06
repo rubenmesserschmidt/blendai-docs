@@ -1,6 +1,6 @@
-*************
-Script Preset
-*************
+******************
+Save Script Preset
+******************
 
 Turn your scripts into your very own features and use them just like they were built-in.
 
