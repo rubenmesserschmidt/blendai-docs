@@ -38,6 +38,8 @@ Contents
     features/test_script
     features/save_script_preset
     features/render_suggestions
+    features/reference_images
+    features/texture_generation
     
     Reference Images
     Texture Generation
