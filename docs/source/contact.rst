@@ -2,6 +2,6 @@
 Contact
 =======
 
-| If you have any questions, issues or an idea for a new feature do not hestitate and get in touch via `Discord <https://discord.gg/TYFq6VKXCN>`_.
+For fast support, development insights, and more, join `Discord <https://go.rubenmesserschmidt.com/V0i6Fu>`_.
 |
-| Or send me an email: support@rubenmesserschmidt.com.
+Or send me an email: support@rubenmesserschmidt.com.
