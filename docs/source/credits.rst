@@ -8,3 +8,10 @@ Credits are the virtual currency of BlendAI. For performing a feature, you have 
 
     If a generation should fail due to an internal server error, you will get your credits back.
     In any other case, credits are non-refundable.
+
+Pricing
+=======
+
+The price for each feature is different and depends on the complexity of the task. Here is an overview of the prices:
+
+- :ref:`Chat<chat_pricing>`
