@@ -28,3 +28,7 @@ Icon (optional)
     You can always change these settings later :ref:`here<main_panel_menu_script_presets>`.
     There you can also delete the script preset or show/hide it in the context menu of its space.
 
+.. tip::
+
+    You can also edit any script preset by simply right-clicking on it in the context menu.
+
