@@ -38,6 +38,7 @@ Getting Started
     features/edit_script
     features/fix_script
     features/test_script
+    features/save_script_preset
     
     Explain
     Organize

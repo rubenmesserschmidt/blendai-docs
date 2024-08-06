@@ -25,6 +25,8 @@ Chat History
     - **Edit Chat**: Edit the name of a chat. The default name is the first message of the chat.
     - **Delete Chat**: Delete a chat from the history.
 
+.. _main_panel_menu_script_presets:
+
 Script Presets
     Open your script presets made with the :ref:`_scripts_script_preset` feature.
 
