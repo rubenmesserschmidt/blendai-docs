@@ -104,3 +104,5 @@ Balanced Quality
 
 High Quality
     :Price Per Message: ``10`` Credits
+
+Learn more about :doc:`../credits`.

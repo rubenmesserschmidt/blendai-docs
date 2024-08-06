@@ -49,3 +49,5 @@ High Quality
     :Base Price: ``1`` Credit
     :Per started 5 objects: ``1`` Credit
 
+Learn more about :doc:`../credits`.
+

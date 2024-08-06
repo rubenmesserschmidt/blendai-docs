@@ -48,3 +48,5 @@ Balanced Quality
 High Quality
     :Price per started 100 characters: ``1`` Credit
 
+Learn more about :doc:`../credits`.
+

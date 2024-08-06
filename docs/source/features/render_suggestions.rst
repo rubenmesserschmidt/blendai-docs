@@ -43,3 +43,5 @@ Balanced Quality
 
 High Quality
     :Price per Suggestions: ``10`` Credits
+
+Learn more about :doc:`../credits`.

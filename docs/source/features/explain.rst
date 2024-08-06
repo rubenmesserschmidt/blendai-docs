@@ -36,3 +36,5 @@ Balanced Quality
 
 High Quality
     :Price per Explanation: ``5`` Credits
+
+Learn more about :doc:`../credits`.

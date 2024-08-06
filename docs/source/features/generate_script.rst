@@ -47,3 +47,5 @@ Balanced Quality
 High Quality
     :Price per script: ``25`` Credits
 
+Learn more about :doc:`../credits`.
+
