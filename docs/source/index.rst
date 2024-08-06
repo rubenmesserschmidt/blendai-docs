@@ -45,8 +45,9 @@ Contents
     features/inpaint_image
     
 .. toctree::
-    :caption: News & Support
+    :caption: More
     :maxdepth: 1
 
     changelog
+    disclaimer
     contact
