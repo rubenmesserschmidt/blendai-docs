@@ -41,12 +41,8 @@ Contents
     features/reference_images
     features/texture_generation
     features/upscale_image
+    features/inpaint_image
     
-    Reference Images
-    Texture Generation
-    Upscale Image
-    Inpaint Image
-
 .. toctree::
     :caption: News & Support
     :maxdepth: 1
