@@ -14,9 +14,6 @@ Welcome to the BlendAI documentation! Here you will find everything you need to 
 Contents
 ========
 
-Getting Started
-===============
-
 .. toctree::
     :caption: Getting Started
     :maxdepth: 1
@@ -39,11 +36,8 @@ Getting Started
     features/fix_script
     features/test_script
     features/save_script_preset
+    features/render_suggestions
     
-    Explain
-    Organize
-    Task Automation
-    Render Suggestions
     Reference Images
     Texture Generation
     Upscale Image

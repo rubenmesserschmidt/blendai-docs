@@ -37,6 +37,8 @@ Send
     Send your message to BlendAI.
 
 
+.. _chat_conversation:
+
 Conversation
 ============
 
