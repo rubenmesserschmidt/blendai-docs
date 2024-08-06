@@ -46,6 +46,6 @@ BlendAI's inpaint feature will give you insights that save you much work, but it
 Pricing
 =======
 
-:Price per Upscale: ``10`` Credits
+:Price per Inpaint: ``10`` Credits
 
 Learn more about :doc:`../credits`.
