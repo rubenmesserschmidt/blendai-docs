@@ -12,6 +12,17 @@ Credits are the virtual currency of BlendAI. For performing a feature, you have 
 
 .. _credits_pricing:
 
+Recharge
+========
+
+You can recharge credits by purchasing on of the credit packs on Blender Market.
+After purchase, you will receive a Recharge Code which you can redeem in the preferences under the :ref:`balance<preferences_balance>` section to add the credits to your account.
+
+.. important::
+   
+      Recharge Codes are interchangeable and can be used by anyone. Do not share these codes with anyone you do not trust.
+
+
 Pricing
 =======
 

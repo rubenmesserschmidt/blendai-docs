@@ -19,6 +19,8 @@ License Key
    - **Reset License Key**: Reset your license key. This will deactivate your current key and generate a new one. This is useful if you suspect your key has been compromised. BlendAI will be removed from your device and you have to reinstall it via your Blender Market order.
 
 
+.. _preferences_balance:
+
 Balance
 =======
 
@@ -29,10 +31,6 @@ Get Credits
 
 Redeem Recharge Code
    Redeem a recharge code you received when purchasing credits. This will add the credits to your account.
-   
-   .. important::
-   
-      Recharge Codes are interchangeable and can be used by anyone. Do not share these codes with anyone you do not trust.
    
 
 Settings
