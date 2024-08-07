@@ -98,7 +98,8 @@ You can ask BlendAI virtually anything about Blender and 3D in general. Here are
 Model
 =====
 
-BlendAI's Chat feature is powered by OpenAI. The used model is based on the generation quality:
+BlendAI's Chat feature is powered by OpenAI. The processing happens on their servers.
+The model used is based on the quality set in the :ref:`General Settings<preferences_settings_general>`:
 
 Balanced Quality
     ``GPT4o Mini``

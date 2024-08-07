@@ -31,12 +31,17 @@ Get Credits
 
 Redeem Recharge Code
    Redeem a recharge code you received when purchasing credits. This will add the credits to your account.
-   
+
+
+.. _preferences_settings:
 
 Settings
 ========
 
 Here you find various settings to customize BlendAI to your liking and more.
+
+
+.. _preferences_settings_general:
 
 General
 -------
@@ -44,8 +49,6 @@ General
 Chat
    - **Profile**: Change your profile picture and name. This is how you will show up in conversations.
    - **Language**: Change the language of your assistant. When set to ``Automatic`` the language will be set to the language of your Blender preferences.
-
-.. _preferences_generation_quality:
 
 Generation
    - **Quality**: Change the quality of the responses from your assistant for all text based features.
