@@ -17,6 +17,19 @@ For explaining nodes, select it before opening the context menu.
 You can reply to the explanation as usual to ask further questions or get more information.
 
 
+Model
+=====
+
+BlendAI's Explain feature is powered by OpenAI. The processing happens on their servers.
+The model used is based on the quality set in the :ref:`General Settings<preferences_settings_general>`.
+
+Balanced Quality
+    ``GPT4o Mini``
+
+High Quality
+    ``GPT4o``
+
+
 .. _explain_limitations:
 
 Limitations
