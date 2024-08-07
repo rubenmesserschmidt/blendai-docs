@@ -95,6 +95,18 @@ You can ask BlendAI virtually anything about Blender and 3D in general. Here are
 - Why is my object not rendering?
 
 
+Model
+=====
+
+BlendAI's Chat feature is powered by OpenAI. The used model is based on the generation quality:
+
+Balanced Quality
+    ``GPT4o Mini``
+
+High Quality
+    ``GPT4o``
+
+
 .. _chat_limitations:
 
 Limitations
