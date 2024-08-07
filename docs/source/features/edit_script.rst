@@ -32,6 +32,19 @@ Generation Quality
 .. tip::
 
     Test the adjusted script in the space it is made for with :doc:`test_script`.
+    
+
+Model
+=====
+
+BlendAI's Edit Script feature is powered by OpenAI. The processing happens on their servers.
+The model used is based on the quality settings in the :ref:`General Settings<preferences_settings_general>`.
+
+Balanced Quality
+    ``GPT4o Mini``
+
+High Quality
+    ``GPT4o``
 
 
 .. _edit_script_limitations:

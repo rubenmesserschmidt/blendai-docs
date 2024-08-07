@@ -29,6 +29,19 @@ Generation Quality
     Test your generated script in the space of your choice with :doc:`test_script`.
 
 
+Model
+=====
+
+BlendAI's Generate Script feature is powered by OpenAI. The processing happens on their servers.
+The model used is based on the quality settings in the :ref:`General Settings<preferences_settings_general>`.
+
+Balanced Quality
+    ``GPT4o Mini``
+
+High Quality
+    ``GPT4o``
+
+
 .. _generate_script_limitations:
 
 Limitations

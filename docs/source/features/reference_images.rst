@@ -29,6 +29,15 @@ Amount
     :Multiple: Generate an image with multiple variations of your idea. This can be useful to explore different possibilities in one go. Works best with objects, whole scenes are not recommended.
 
 
+Model
+=====
+
+BlendAI's Reference Images feature is powered by StabilityAI. The processing happens on servers from Replicate.
+
+:Model:
+    ``sdxl``
+
+
 .. _reference_images_limitations:
 
 Limitations

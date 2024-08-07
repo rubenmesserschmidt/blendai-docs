@@ -10,8 +10,6 @@ Credits are the virtual currency of BlendAI. For performing a feature, you have 
     In any other case including cancellation and client side errors, credits are non-refundable.
 
 
-.. _credits_pricing:
-
 Recharge
 ========
 
@@ -22,6 +20,8 @@ After purchase, you will receive a Recharge Code which you can redeem in the pre
    
       Recharge Codes are interchangeable and can be used by anyone. Do not share these codes with anyone you do not trust.
 
+
+.. _credits_pricing:
 
 Pricing
 =======

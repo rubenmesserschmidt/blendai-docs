@@ -27,6 +27,19 @@ Generation Quality
     See :ref:`here<preferences_generation_quality>`.
 
 
+Model
+=====
+
+BlendAI's Organize feature is powered by OpenAI. The processing happens on their servers.
+The model used is based on the quality settings in the :ref:`General Settings<preferences_settings_general>`.
+
+Balanced Quality
+    ``GPT4o Mini``
+
+High Quality
+    ``GPT4o``
+
+
 .. _organize_limitations:
 
 Limitations

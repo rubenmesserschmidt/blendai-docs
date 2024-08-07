@@ -21,6 +21,15 @@ Face Enhance
     Enhance faces in the image to make them look more detailed and realistic. This option has no effect on images without faces.
 
 
+Model
+=====
+
+BlendAI's Upscale Image feature is powered by NightmareAI. The processing happens on servers from Replicate.
+
+:Model:
+    ``real-esrgan``
+
+
 .. _upscale_image_limitations:
 
 Limitations

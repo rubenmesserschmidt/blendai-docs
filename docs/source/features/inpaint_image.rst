@@ -35,6 +35,15 @@ Mask
     - **Open**: This will open a file dialog where you can select the mask image.
 
 
+Model
+=====
+
+BlendAI's Inpaint feature is powered by StabilityAI. The processing happens on servers from Replicate.
+
+:Model:
+    ``stable-diffusion-inpainting``
+
+
 .. _inpaint_image_limitations:
 
 Limitations

@@ -33,6 +33,15 @@ Description
     - Transparent glass with cracks
 
 
+Model
+=====
+
+BlendAI's Texture Generation feature is powered by ByteDance. The processing happens on servers from Replicate.
+
+:Model:
+    ``sdxl-lightning-4step``
+
+
 .. _texture_generation_limitations:
 
 Limitations

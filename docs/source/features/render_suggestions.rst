@@ -26,6 +26,19 @@ Description (optional)
     - How can I make the colors pop more?
 
 
+Model
+=====
+
+BlendAI's Render Suggestions feature is powered by OpenAI. The processing happens on their servers.
+The model used is based on the quality settings in the :ref:`General Settings<preferences_settings_general>`.
+
+Balanced Quality
+    ``GPT4o Mini``
+
+High Quality
+    ``GPT4o``
+
+
 .. _render_suggestions_limitations:
 
 Limitations
