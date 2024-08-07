@@ -7,7 +7,7 @@ Credits are the virtual currency of BlendAI. For performing a feature, you have 
 .. important::
 
     If a generation should fail due to an internal server error, you will get your credits back.
-    In any other case, credits are non-refundable.
+    In any other case including cancellation and client side errors, credits are non-refundable.
 
 
 .. _credits_pricing:
