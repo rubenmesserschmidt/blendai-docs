@@ -22,7 +22,7 @@ New Features
     The :doc:`features/reference_images` feature now uses ``flux-schnell``. This is a brand new state-of-the-art image generation model that will provide much better results.
 
 **Accessible Quality Setting**
-    You can now change the generation quality right from the chat input field. Learn more about :ref:`here<quality_settings>`.
+    You can now change the generation quality right from the chat input field.
 
 *********
 Bug Fixes
