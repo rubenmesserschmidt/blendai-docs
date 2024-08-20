@@ -66,10 +66,10 @@ Pricing
 The pricing is based on the length of the input script.
 
 Balanced Quality
-    :Price per started 500 characters: ``1`` Credit
+    :Price per started 1000 characters: ``1`` Credit
 
 High Quality
-    :Price per started 100 characters: ``1`` Credit
+    :Price per started 200 characters: ``1`` Credit
 
 Learn more about :doc:`../credits`.
 

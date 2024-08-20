@@ -126,9 +126,9 @@ Pricing
 =======
 
 Balanced Quality
-    :Price Per Message: ``2`` Credits 
+    :Price Per Message: ``1`` Credits 
 
 High Quality
-    :Price Per Message: ``10`` Credits
+    :Price Per Message: ``5`` Credits
 
 Learn more about :doc:`../credits`.

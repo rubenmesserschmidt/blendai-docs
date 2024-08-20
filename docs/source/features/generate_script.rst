@@ -60,10 +60,10 @@ Pricing
 =======
 
 Balanced Quality
-    :Price per script: ``5`` Credits
+    :Price per script: ``2`` Credits
 
 High Quality
-    :Price per script: ``25`` Credits
+    :Price per script: ``10`` Credits
 
 Learn more about :doc:`../credits`.
 

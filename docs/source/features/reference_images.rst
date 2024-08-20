@@ -35,7 +35,7 @@ Model
 BlendAI's Reference Images feature is powered by StabilityAI. The processing happens on servers from Replicate.
 
 :Model:
-    ``sdxl``
+    ``flux-schnell``
 
 
 .. _reference_images_limitations:
@@ -55,6 +55,6 @@ BlendAI's reference images feature will inspire you, but it has its limitations:
 Pricing
 =======
 
-:Price per Reference Image: ``10`` Credits
+:Price per Reference Image: ``5`` Credits
 
 Learn more about :doc:`../credits`.

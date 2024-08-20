@@ -21,7 +21,7 @@ Older Versions
 Install BlendAI the same way as any other Blender addon.
 
 .. raw:: html
-
+ 
     <video width="100%" controls>
       <source src="https://api.rubenmesserschmidt.com/blendai/public/videos/download-page_install-addon.mp4" type="video/mp4" >
         Your browser does not support the video tag.
