@@ -33,6 +33,9 @@ Attach Files
         The maximum total input size is 1000 characters. This includes the message and all attachments.
         For images, you can attach a maximum of 2 files per message.
 
+Generation Quality
+    Change the generation quality right from the chat input field. This setting affects all text-based features. Learn more about it in the :ref:`preferences<preferences_settings_general>`.`
+
 Send
     Send your message to BlendAI.
 

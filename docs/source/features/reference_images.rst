@@ -32,7 +32,7 @@ Amount
 Model
 =====
 
-BlendAI's Reference Images feature is powered by StabilityAI. The processing happens on servers from Replicate.
+BlendAI's Reference Images feature is powered by Black Forest Labs. The processing happens on servers from Replicate.
 
 :Model:
     ``flux-schnell``
