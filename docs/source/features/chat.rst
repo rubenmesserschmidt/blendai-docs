@@ -4,6 +4,12 @@ Chat
 
 Chat with your personal assistant, whenever you want and wherever you are. Get help with everything you need, from simple questions to complex tasks. The assistant is always there for you, ready to help.
 
+.. raw:: html
+
+    <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto;">
+        <iframe width="1280" height="720" src="https://www.youtube.com/embed/TdP7x4u7zgM" title="Unlock your PERSONAL ASSISTANT in Blender | BlendAI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    </div>
+
 .. _chat_input_field:
 
 Input Field
