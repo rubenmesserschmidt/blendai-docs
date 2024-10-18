@@ -4,6 +4,12 @@ Explain
 
 Let BlendAI explain you any setting, operator, or node in Blender. This is a powerful feature to get help with Blender's vast amount of features and settings, even for the most experienced users.
 
+.. raw:: html
+
+    <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto;">
+        <iframe src="https://www.youtube.com/embed/VN5mNeF6bz4" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
+    </div>
+
 How it Works
 ============
 

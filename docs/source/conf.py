@@ -6,8 +6,8 @@ project = "BlendAI"
 copyright = "2024, Ruben Messerschmidt"
 author = "Ruben Messerschmidt"
 
-release = "1.0.2"
-version = "1.0.2"
+release = "1.0.3"
+version = "1.0.3"
 
 # -- General configuration
 

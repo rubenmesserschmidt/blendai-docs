@@ -9,27 +9,24 @@ Changelog
 *October 18th, 2024*
 
 ************
-New Features
+Improvements
 ************
 
-**Much Lower Credit Costs**
-    Lowered the credit costs by a lot for most of the features. See the new prices :ref:`here<credits_pricing>`.
+**Local Installation: Update**
+    BlendAI installed from disk in Blender 4.2 or later will now automatically check for updates. There will be also the option to install the update right from the update popup.
 
-**BlendAI Free: Try Pro Features**
-    BlendAI Free users can now try every Pro feature 3 times. This way you can see if it's worth upgrading to Pro for you.
-
-**Reference Images: New AI Model**
-    The :doc:`features/reference_images` feature now uses ``flux-schnell``. This is a brand new state-of-the-art image generation model that will provide much better results.
-
-**Accessible Quality Setting**
-    You can now change the generation quality right from the chat input field.
+**Preferences: Keymap**
+    Improved the keymap key settings.
 
 *********
 Bug Fixes
 *********
 
-**Reference Images**
-    Fixed an issue where an error occuered after successfully generating a reference image.
+**(Linux) Copy Response**
+    Fixed an issue where an error occured when copying the response from the chat on Linux.
+
+**Minor Issues**
+    Fixed some minor issues and improved the overall stability.
 
 
 #####
