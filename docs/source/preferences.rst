@@ -49,6 +49,7 @@ General
 Chat
    - **Profile**: Change your profile picture and name. This is how you will show up in conversations.
    - **Language**: Change the language of your assistant. When set to ``Automatic`` the language will be set to the language of your Blender preferences.
+   - **Custom Instructions**: Add custom instructions for chatting to tailor the experience to your needs. E.g. "I'm an intermediate Blender user, interested in hard surface modeling. Answer short and concise. Talk to me in Yoda style."
 
 Generation
    - **Quality**: Change the quality of the responses from your assistant for all text based features.
@@ -57,6 +58,13 @@ Generation
    :Balanced: Balanced quality, cost-efficient responses, good reasoning and vision capabilities. Can make more mistakes. Recommended if on a lower budget and for simpler tasks.
    :Custom: Use different quality settings for different features. Recommended for advanced users who want to fine-tune their experience.
 
+API Keys (optional, only if you want to use your own balance with third party accounts instead of BlendAI's credit system)
+    - **OpenAI**: Your OpenAI API key. This will be used for all features that output text. You can get your OpenAI API key `here <https://platform.openai.com/api-keys>`_.
+    - **Replicate**: Your Replicate API key. You can get your Replicate API key `here <https://replicate.com/account/api-tokens>`_. It will be used for the following features:
+        - :doc:`features/reference_images`
+        - :doc:`features/texture_generation`
+        - :doc:`features/inpaint_image`
+        - :doc:`features/upscale_image`
 
 .. _preferences_display:
 
