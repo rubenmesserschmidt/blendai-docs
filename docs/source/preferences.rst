@@ -59,7 +59,15 @@ Generation
    :Custom: Use different quality settings for different features. Recommended for advanced users who want to fine-tune their experience.
 
 API Keys (optional, only if you want to use your own balance with third party accounts instead of BlendAI's credit system)
-    - **OpenAI**: Your OpenAI API key. This will be used for all features that output text. You can get your OpenAI API key `here <https://platform.openai.com/api-keys>`_.
+    - **OpenAI**: Your OpenAI API key. You can get your OpenAI API key `here <https://platform.openai.com/api-keys>`_. It will be used for the following features:
+        - :doc:`features/chat`
+        - :doc:`features/explain`
+        - :doc:`features/generate_script`
+        - :doc:`features/edit_script`
+        - :doc:`features/fix_script`
+        - :doc:`features/organize`
+        - :doc:`features/render_suggestions`
+
     - **Replicate**: Your Replicate API key. You can get your Replicate API key `here <https://replicate.com/account/api-tokens>`_. It will be used for the following features:
         - :doc:`features/reference_images`
         - :doc:`features/texture_generation`
