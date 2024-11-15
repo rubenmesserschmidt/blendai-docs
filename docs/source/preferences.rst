@@ -58,6 +58,8 @@ Generation
    :Balanced: Balanced quality, cost-efficient responses, good reasoning and vision capabilities. Can make more mistakes. Recommended if on a lower budget and for simpler tasks.
    :Custom: Use different quality settings for different features. Recommended for advanced users who want to fine-tune their experience.
 
+.. _preferences_settings_general_api_keys:
+
 API Keys (optional, only if you want to use your own balance with third party accounts instead of BlendAI's credit system)
     - **OpenAI**: Your OpenAI API key. You can get your OpenAI API key `here <https://platform.openai.com/api-keys>`_. It will be used for the following features:
         - :doc:`features/chat`

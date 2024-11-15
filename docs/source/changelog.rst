@@ -3,6 +3,19 @@ Changelog
 =========
 
 #####
+1.1.0
+#####
+
+*November 15th, 2024*
+
+************
+New Features
+************
+
+**API Key Support**
+    You can now bring your own API keys instead of using Credits. Learn more in the :ref:`preferences <preferences_settings_general_api_keys>`.
+
+#####
 1.0.3
 #####
 

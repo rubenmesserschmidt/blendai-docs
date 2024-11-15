@@ -25,6 +25,10 @@ Message
 
         BlendAI does always know in which space you are working right now. Therefore, you can ask questions and get help with the current context in Blender.
 
+    .. note::
+
+        BlendAI also knows your modified hotkeys. So if you changed the hotkey for a specific tool, BlendAI will know it when explaining or helping you with it.
+
 Attach Files
     Attach text and image files to your message. Opens a file dialog to select internal and external files.
 
