@@ -15,6 +15,12 @@ New Features
 **API Key Support**
     You can now bring your own API keys instead of using Credits. Learn more in the :ref:`preferences <preferences_settings_general_api_keys>`.
 
+**User Custom Instructions**
+    You can now add your own instructions for chatting. Learn more in the :ref:`preferences <preferences_settings_general_chat>`.
+
+**Modified Hotkeys Knowledge**
+    BlendAI now knows about your modified hotkeys when explaining features for an even more personalized experience.
+
 #####
 1.0.3
 #####
