@@ -3,6 +3,19 @@ Changelog
 =========
 
 #####
+1.1.1
+#####
+
+*November 17th, 2024*
+
+************
+New Features
+************
+
+**Blender 4.3 Support**
+    BlendAI now supports Blender 4.3.
+
+#####
 1.1.0
 #####
 
