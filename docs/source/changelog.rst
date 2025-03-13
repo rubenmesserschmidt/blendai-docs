@@ -3,6 +3,22 @@ Changelog
 =========
 
 #####
+1.1.2
+#####
+
+*March 13th, 2025*
+
+*********
+Bug Fixes
+*********
+
+**Text Wrapping**
+    Fixed an issue where text was ommitted for different alphabets when wrapping the text in the chat.
+
+**(Linux) Copy Response**
+    Fixed an issue where an error occured when copying the response from the chat on Linux.
+
+#####
 1.1.1
 #####
 
